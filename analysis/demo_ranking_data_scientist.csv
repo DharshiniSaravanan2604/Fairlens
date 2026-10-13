@@ -1,0 +1,15 @@
+rank,file_name,final_score,skill_score,similarity_score,experience_score,education_score,certification_score,category_probability,predicted_category,predicted_confidence,experience_years,education,certifications,identifiers_masked,category_ok,shortlisted,decision
+1,Resume_02.pdf,59.6,0.609,0.651,0.5,1.0,0.0,0.684,Data Science,0.684,1.0,Master's,0,4,True,True,Shortlisted
+2,Resume_01.pdf,54.3,0.097,0.756,1.0,1.0,0.0,0.352,Data Science,0.352,6.0,Master's,0,6,True,True,Shortlisted
+3,Resume_09.pdf,57.2,0.36,0.502,1.0,1.0,0.0,0.102,Hadoop,0.57,20.9,Bachelor's,0,7,False,False,Not shortlisted
+4,Resume_04.pdf,47.4,0.055,0.379,1.0,1.0,0.5,0.108,Java Developer,0.555,4.0,Master's,1,12,False,False,Not shortlisted
+5,Resume_03.pdf,47.0,0.139,0.404,1.0,1.0,0.0,0.109,Python Developer,0.339,6.0,Bachelor's,0,5,False,False,Not shortlisted
+6,Resume_13.pdf,42.7,0.0,0.268,1.0,1.0,0.5,0.0,Operations Manager,0.332,21.4,Master's,1,4,False,False,Not shortlisted
+7,Resume_08.pdf,41.6,0.042,0.325,1.0,1.0,0.0,0.0,ETL Developer,0.36,16.2,Bachelor's,0,19,False,False,Not shortlisted
+8,Resume_14.pdf,39.9,0.0,0.315,1.0,1.0,0.0,0.0,DevOps Engineer,0.335,5.7,Bachelor's,0,4,False,False,Not shortlisted
+9,Resume_10.pdf,38.4,0.0,0.255,1.0,1.0,0.0,0.107,Java Developer,0.329,5.0,Bachelor's,0,13,False,False,Not shortlisted
+10,Resume_12.pdf,38.3,0.0,0.253,1.0,1.0,0.0,0.0,Database,0.783,28.0,Bachelor's,0,9,False,False,Not shortlisted
+11,Resume_07.pdf,28.5,0.0,0.182,1.0,0.0,0.5,0.0,HR,0.24,2.5,Not found,1,4,False,False,Not shortlisted
+12,Resume_11.pdf,24.7,0.0,0.189,1.0,0.0,0.0,0.0,Automation Testing,0.457,5.5,12th / HSC,0,6,False,False,Not shortlisted
+13,Resume_05.pdf,21.7,0.0,0.189,0.25,1.0,0.0,0.337,Data Science,0.337,0.5,Bachelor's,0,9,False,False,Not shortlisted
+14,Resume_06.pdf,18.0,0.0,0.081,0.0,1.0,0.5,0.0,HR,0.785,0.0,Master's,1,4,False,False,Not shortlisted

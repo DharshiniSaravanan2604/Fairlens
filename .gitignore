@@ -1,0 +1,5 @@
+fairlens.db
+reports_out/
+__pycache__/
+*.pyc
+fairlens_models.zip

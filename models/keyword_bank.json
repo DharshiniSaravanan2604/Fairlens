@@ -1,0 +1,2552 @@
+{
+  "Advocate": [
+    {
+      "keyword": "advocate",
+      "weight": 0.1481,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "court",
+      "weight": 0.0926,
+      "coverage": 0.625
+    },
+    {
+      "keyword": "legal",
+      "weight": 0.1111,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "law",
+      "weight": 0.0926,
+      "coverage": 0.625
+    },
+    {
+      "keyword": "llb",
+      "weight": 0.0556,
+      "coverage": 0.375
+    },
+    {
+      "keyword": "district",
+      "weight": 0.0556,
+      "coverage": 0.375
+    },
+    {
+      "keyword": "criminal",
+      "weight": 0.0556,
+      "coverage": 0.375
+    },
+    {
+      "keyword": "litigation",
+      "weight": 0.037,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "llm",
+      "weight": 0.037,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "courts",
+      "weight": 0.037,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "matter relate",
+      "weight": 0.037,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "consumer",
+      "weight": 0.037,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "civil",
+      "weight": 0.037,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "recovery",
+      "weight": 0.037,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "internet",
+      "weight": 0.037,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "operative",
+      "weight": 0.0185,
+      "coverage": 0.125
+    },
+    {
+      "keyword": "mortgage",
+      "weight": 0.0185,
+      "coverage": 0.125
+    },
+    {
+      "keyword": "november",
+      "weight": 0.0185,
+      "coverage": 0.125
+    },
+    {
+      "keyword": "progressive",
+      "weight": 0.0185,
+      "coverage": 0.125
+    },
+    {
+      "keyword": "pg",
+      "weight": 0.0185,
+      "coverage": 0.125
+    }
+  ],
+  "Arts": [
+    {
+      "keyword": "arts",
+      "weight": 0.0909,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "art",
+      "weight": 0.0909,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "sports",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "commerce science",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "artist",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "programme",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "total",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "exhibition",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "authority",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "academic",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "government",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "workshop",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "drawing",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "sr",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "organize",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "august",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "quick",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "event",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "course",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "marketing",
+      "weight": 0.0455,
+      "coverage": 0.4
+    }
+  ],
+  "Automation Testing": [
+    {
+      "keyword": "automation testing",
+      "weight": 0.0704,
+      "coverage": 0.833
+    },
+    {
+      "keyword": "selenium",
+      "weight": 0.0704,
+      "coverage": 0.833
+    },
+    {
+      "keyword": "webdriver",
+      "weight": 0.0423,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "regression testing",
+      "weight": 0.0423,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "scenarios",
+      "weight": 0.0423,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "manual",
+      "weight": 0.0704,
+      "coverage": 0.833
+    },
+    {
+      "keyword": "smoke",
+      "weight": 0.0423,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "test script",
+      "weight": 0.0423,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "test case",
+      "weight": 0.0563,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "integration testing",
+      "weight": 0.0423,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "reports",
+      "weight": 0.0423,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "automate",
+      "weight": 0.0563,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "web",
+      "weight": 0.0704,
+      "coverage": 0.833
+    },
+    {
+      "keyword": "summary",
+      "weight": 0.0423,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "object",
+      "weight": 0.0423,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "release",
+      "weight": 0.0423,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "tracking",
+      "weight": 0.0423,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "functional",
+      "weight": 0.0563,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "cycle",
+      "weight": 0.0423,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "defect",
+      "weight": 0.0423,
+      "coverage": 0.5
+    }
+  ],
+  "Blockchain": [
+    {
+      "keyword": "blockchain",
+      "weight": 0.0851,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "ethereum",
+      "weight": 0.0638,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "smart",
+      "weight": 0.0851,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "solidity",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "startup",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "wallet",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "virtual",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "nodejs",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "propose",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "mean",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "degree",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "nashik",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "platform",
+      "weight": 0.0638,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "analytics",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "contract",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "product",
+      "weight": 0.0638,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "interface",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "bug",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "api",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "framework",
+      "weight": 0.0426,
+      "coverage": 0.5
+    }
+  ],
+  "Business Analyst": [
+    {
+      "keyword": "functional requirement",
+      "weight": 0.069,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "analyst",
+      "weight": 0.0862,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "brd",
+      "weight": 0.0517,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "specification",
+      "weight": 0.0862,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "requirement gathering",
+      "weight": 0.069,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "requirement document",
+      "weight": 0.0517,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "determine",
+      "weight": 0.0517,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "powerpoint",
+      "weight": 0.0517,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "available",
+      "weight": 0.0517,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "concept",
+      "weight": 0.0517,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "junior",
+      "weight": 0.0517,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "overall",
+      "weight": 0.0517,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "uat test",
+      "weight": 0.0345,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "fsd",
+      "weight": 0.0345,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "document user",
+      "weight": 0.0345,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "discussion",
+      "weight": 0.0345,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "internal audit",
+      "weight": 0.0345,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "frd",
+      "weight": 0.0345,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "development product",
+      "weight": 0.0345,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "artifact",
+      "weight": 0.0345,
+      "coverage": 0.4
+    }
+  ],
+  "Civil Engineer": [
+    {
+      "keyword": "engineer civil",
+      "weight": 0.0962,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "site engineer",
+      "weight": 0.0769,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "construction",
+      "weight": 0.0769,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "completion",
+      "weight": 0.0577,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "civil engineering",
+      "weight": 0.0385,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "al",
+      "weight": 0.0385,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "civil site",
+      "weight": 0.0385,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "execution civil",
+      "weight": 0.0385,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "interior",
+      "weight": 0.0385,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "thank",
+      "weight": 0.0385,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "site requirement",
+      "weight": 0.0385,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "autocad",
+      "weight": 0.0577,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "polytechnic",
+      "weight": 0.0577,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "material",
+      "weight": 0.0577,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "force",
+      "weight": 0.0385,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "structural",
+      "weight": 0.0385,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "quantity",
+      "weight": 0.0385,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "city",
+      "weight": 0.0385,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "andheri",
+      "weight": 0.0385,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "building",
+      "weight": 0.0577,
+      "coverage": 0.6
+    }
+  ],
+  "Data Science": [
+    {
+      "keyword": "machine",
+      "weight": 0.0941,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "analytic",
+      "weight": 0.0588,
+      "coverage": 0.625
+    },
+    {
+      "keyword": "deep",
+      "weight": 0.0471,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "learning",
+      "weight": 0.0706,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "detection",
+      "weight": 0.0471,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "decision",
+      "weight": 0.0588,
+      "coverage": 0.625
+    },
+    {
+      "keyword": "sentiment",
+      "weight": 0.0353,
+      "coverage": 0.375
+    },
+    {
+      "keyword": "reduction",
+      "weight": 0.0353,
+      "coverage": 0.375
+    },
+    {
+      "keyword": "nlp",
+      "weight": 0.0353,
+      "coverage": 0.375
+    },
+    {
+      "keyword": "predictive",
+      "weight": 0.0471,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "python",
+      "weight": 0.0706,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "text",
+      "weight": 0.0471,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "analytics",
+      "weight": 0.0471,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "scientist",
+      "weight": 0.0353,
+      "coverage": 0.375
+    },
+    {
+      "keyword": "science",
+      "weight": 0.0824,
+      "coverage": 0.875
+    },
+    {
+      "keyword": "processing",
+      "weight": 0.0471,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "classification",
+      "weight": 0.0353,
+      "coverage": 0.375
+    },
+    {
+      "keyword": "intelligence",
+      "weight": 0.0353,
+      "coverage": 0.375
+    },
+    {
+      "keyword": "visualization",
+      "weight": 0.0353,
+      "coverage": 0.375
+    },
+    {
+      "keyword": "recommendation",
+      "weight": 0.0353,
+      "coverage": 0.375
+    }
+  ],
+  "Database": [
+    {
+      "keyword": "database administrator",
+      "weight": 0.0763,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "backup",
+      "weight": 0.0763,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "installation",
+      "weight": 0.0763,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "alert",
+      "weight": 0.0508,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "migration",
+      "weight": 0.0593,
+      "coverage": 0.778
+    },
+    {
+      "keyword": "space",
+      "weight": 0.0424,
+      "coverage": 0.556
+    },
+    {
+      "keyword": "database administration",
+      "weight": 0.0424,
+      "coverage": 0.556
+    },
+    {
+      "keyword": "dba",
+      "weight": 0.0424,
+      "coverage": 0.556
+    },
+    {
+      "keyword": "replication",
+      "weight": 0.0508,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "restore",
+      "weight": 0.0508,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "troubleshooting",
+      "weight": 0.0593,
+      "coverage": 0.778
+    },
+    {
+      "keyword": "windows server",
+      "weight": 0.0424,
+      "coverage": 0.556
+    },
+    {
+      "keyword": "configure",
+      "weight": 0.0508,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "database server",
+      "weight": 0.0424,
+      "coverage": 0.556
+    },
+    {
+      "keyword": "performance issue",
+      "weight": 0.0339,
+      "coverage": 0.444
+    },
+    {
+      "keyword": "tablespace",
+      "weight": 0.0339,
+      "coverage": 0.444
+    },
+    {
+      "keyword": "rman",
+      "weight": 0.0339,
+      "coverage": 0.444
+    },
+    {
+      "keyword": "recovery",
+      "weight": 0.0424,
+      "coverage": 0.556
+    },
+    {
+      "keyword": "dr",
+      "weight": 0.0424,
+      "coverage": 0.556
+    },
+    {
+      "keyword": "configuration",
+      "weight": 0.0508,
+      "coverage": 0.667
+    }
+  ],
+  "DevOps Engineer": [
+    {
+      "keyword": "devops",
+      "weight": 0.0811,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "via",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "sure",
+      "weight": 0.0405,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "html",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "coordinate",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "ibm",
+      "weight": 0.0405,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "track",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "automation",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "qa",
+      "weight": 0.0405,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "send",
+      "weight": 0.0405,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "core",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "key",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "multiple",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "task",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "platform",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "documentation",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "shell",
+      "weight": 0.0405,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "commerce",
+      "weight": 0.0405,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "jquery",
+      "weight": 0.0405,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "reporting",
+      "weight": 0.0405,
+      "coverage": 0.5
+    }
+  ],
+  "DotNet Developer": [
+    {
+      "keyword": "net developer",
+      "weight": 0.0714,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "dot net",
+      "weight": 0.0714,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "csharp",
+      "weight": 0.0714,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "developer dot",
+      "weight": 0.0571,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "dotnet",
+      "weight": 0.0714,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "aspnet",
+      "weight": 0.0571,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "visual studio",
+      "weight": 0.0571,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "entity framework",
+      "weight": 0.0429,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "sql server",
+      "weight": 0.0714,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "mvc",
+      "weight": 0.0571,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "javascript",
+      "weight": 0.0429,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "html",
+      "weight": 0.0571,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "database sql",
+      "weight": 0.0429,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "cms",
+      "weight": 0.0286,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "utilise",
+      "weight": 0.0286,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "presentation layer",
+      "weight": 0.0286,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "linq",
+      "weight": 0.0286,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "bootstrap",
+      "weight": 0.0429,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "css",
+      "weight": 0.0429,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "web api",
+      "weight": 0.0286,
+      "coverage": 0.4
+    }
+  ],
+  "ETL Developer": [
+    {
+      "keyword": "informatica",
+      "weight": 0.0784,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "etl developer",
+      "weight": 0.0784,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "power center",
+      "weight": 0.0588,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "transformation",
+      "weight": 0.0588,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "mapping",
+      "weight": 0.0588,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "warehouse",
+      "weight": 0.0588,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "lookup",
+      "weight": 0.0392,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "joiner",
+      "weight": 0.0392,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "feed",
+      "weight": 0.0392,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "extensively",
+      "weight": 0.0392,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "unix",
+      "weight": 0.0588,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "expression",
+      "weight": 0.0392,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "microsoft sql",
+      "weight": 0.0392,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "achievements",
+      "weight": 0.0392,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "tata consultancy",
+      "weight": 0.0392,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "unit test",
+      "weight": 0.0392,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "transform",
+      "weight": 0.0392,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "write",
+      "weight": 0.0588,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "source",
+      "weight": 0.0588,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "jira",
+      "weight": 0.0392,
+      "coverage": 0.5
+    }
+  ],
+  "Electrical Engineering": [
+    {
+      "keyword": "ht",
+      "weight": 0.0638,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "electrical",
+      "weight": 0.0851,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "plant",
+      "weight": 0.0638,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "lt",
+      "weight": 0.0638,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "protection",
+      "weight": 0.0638,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "panel",
+      "weight": 0.0638,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "vendors",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "panels",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "actuators",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "starter",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "sf6",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "schedules",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "preventive maintenance",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "engineering design",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "mechanical maintenance",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "maintenance operation",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "mw",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "layout",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "lightning",
+      "weight": 0.0426,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "lighting",
+      "weight": 0.0426,
+      "coverage": 0.5
+    }
+  ],
+  "HR": [
+    {
+      "keyword": "hr",
+      "weight": 0.2581,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "mba",
+      "weight": 0.0968,
+      "coverage": 0.375
+    },
+    {
+      "keyword": "attendance",
+      "weight": 0.0645,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "record",
+      "weight": 0.0645,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "policies",
+      "weight": 0.0323,
+      "coverage": 0.125
+    },
+    {
+      "keyword": "leave",
+      "weight": 0.0323,
+      "coverage": 0.125
+    },
+    {
+      "keyword": "salary",
+      "weight": 0.0323,
+      "coverage": 0.125
+    },
+    {
+      "keyword": "training need",
+      "weight": 0.0323,
+      "coverage": 0.125
+    },
+    {
+      "keyword": "manpower",
+      "weight": 0.0323,
+      "coverage": 0.125
+    },
+    {
+      "keyword": "hospitality",
+      "weight": 0.0323,
+      "coverage": 0.125
+    },
+    {
+      "keyword": "compliance relate",
+      "weight": 0.0323,
+      "coverage": 0.125
+    },
+    {
+      "keyword": "conduct training",
+      "weight": 0.0323,
+      "coverage": 0.125
+    },
+    {
+      "keyword": "diploma hotel",
+      "weight": 0.0323,
+      "coverage": 0.125
+    },
+    {
+      "keyword": "compensation",
+      "weight": 0.0323,
+      "coverage": 0.125
+    },
+    {
+      "keyword": "economics",
+      "weight": 0.0323,
+      "coverage": 0.125
+    },
+    {
+      "keyword": "training development",
+      "weight": 0.0323,
+      "coverage": 0.125
+    },
+    {
+      "keyword": "create job",
+      "weight": 0.0323,
+      "coverage": 0.125
+    },
+    {
+      "keyword": "pf",
+      "weight": 0.0323,
+      "coverage": 0.125
+    },
+    {
+      "keyword": "human resource",
+      "weight": 0.0323,
+      "coverage": 0.125
+    },
+    {
+      "keyword": "honesty",
+      "weight": 0.0323,
+      "coverage": 0.125
+    }
+  ],
+  "Hadoop": [
+    {
+      "keyword": "sqoop",
+      "weight": 0.0649,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "hdfs",
+      "weight": 0.0649,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "hadoop",
+      "weight": 0.0649,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "spark",
+      "weight": 0.0649,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "load datum",
+      "weight": 0.0519,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "mapreduce",
+      "weight": 0.0519,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "scala",
+      "weight": 0.0519,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "cluster",
+      "weight": 0.0649,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "pig",
+      "weight": 0.039,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "cloudera",
+      "weight": 0.039,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "table load",
+      "weight": 0.039,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "algorithm",
+      "weight": 0.0519,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "distribute",
+      "weight": 0.039,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "hbase",
+      "weight": 0.039,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "scripting",
+      "weight": 0.0519,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "involve create",
+      "weight": 0.039,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "large",
+      "weight": 0.0519,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "apache",
+      "weight": 0.039,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "import",
+      "weight": 0.039,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "file",
+      "weight": 0.0519,
+      "coverage": 0.8
+    }
+  ],
+  "Health and fitness": [
+    {
+      "keyword": "fitness",
+      "weight": 0.102,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "gym",
+      "weight": 0.0612,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "hotel",
+      "weight": 0.0612,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "centre",
+      "weight": 0.0612,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "nutrition",
+      "weight": 0.0408,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "sport",
+      "weight": 0.0408,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "dietetics",
+      "weight": 0.0408,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "counselling",
+      "weight": 0.0408,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "healthy",
+      "weight": 0.0408,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "centres",
+      "weight": 0.0408,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "health",
+      "weight": 0.0816,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "goal",
+      "weight": 0.0612,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "trainer",
+      "weight": 0.0408,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "customer relationship",
+      "weight": 0.0408,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "food",
+      "weight": 0.0408,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "coach",
+      "weight": 0.0408,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "enquiry",
+      "weight": 0.0408,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "advance",
+      "weight": 0.0408,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "complaint",
+      "weight": 0.0408,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "promote",
+      "weight": 0.0408,
+      "coverage": 0.4
+    }
+  ],
+  "Java Developer": [
+    {
+      "keyword": "spring",
+      "weight": 0.0909,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "hibernate",
+      "weight": 0.0606,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "jsp",
+      "weight": 0.0758,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "j2ee",
+      "weight": 0.0758,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "java developer",
+      "weight": 0.0606,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "servlet",
+      "weight": 0.0606,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "eclipse",
+      "weight": 0.0758,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "jquery ajax",
+      "weight": 0.0455,
+      "coverage": 0.3
+    },
+    {
+      "keyword": "mvc",
+      "weight": 0.0606,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "frontend",
+      "weight": 0.0303,
+      "coverage": 0.2
+    },
+    {
+      "keyword": "salcluster",
+      "weight": 0.0303,
+      "coverage": 0.2
+    },
+    {
+      "keyword": "middleware",
+      "weight": 0.0303,
+      "coverage": 0.2
+    },
+    {
+      "keyword": "angular",
+      "weight": 0.0455,
+      "coverage": 0.3
+    },
+    {
+      "keyword": "core java",
+      "weight": 0.0455,
+      "coverage": 0.3
+    },
+    {
+      "keyword": "development web",
+      "weight": 0.0303,
+      "coverage": 0.2
+    },
+    {
+      "keyword": "august july",
+      "weight": 0.0303,
+      "coverage": 0.2
+    },
+    {
+      "keyword": "jdbc",
+      "weight": 0.0303,
+      "coverage": 0.2
+    },
+    {
+      "keyword": "keep track",
+      "weight": 0.0303,
+      "coverage": 0.2
+    },
+    {
+      "keyword": "amravati",
+      "weight": 0.0303,
+      "coverage": 0.2
+    },
+    {
+      "keyword": "mysql",
+      "weight": 0.0606,
+      "coverage": 0.4
+    }
+  ],
+  "Mechanical Engineer": [
+    {
+      "keyword": "mechanical engineering",
+      "weight": 0.1081,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "mechanical design",
+      "weight": 0.0541,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "mesa",
+      "weight": 0.0541,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "engineer mechanical",
+      "weight": 0.0541,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "association",
+      "weight": 0.0541,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "design engineer",
+      "weight": 0.0541,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "pneumatic",
+      "weight": 0.0541,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "extra",
+      "weight": 0.0541,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "conduct",
+      "weight": 0.0811,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "motor",
+      "weight": 0.0541,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "hindi",
+      "weight": 0.0541,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "autocad",
+      "weight": 0.0541,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "self",
+      "weight": 0.0541,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "industry",
+      "weight": 0.0541,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "actuator",
+      "weight": 0.027,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "port",
+      "weight": 0.027,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "preparation material",
+      "weight": 0.027,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "prakash",
+      "weight": 0.027,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "nasscom foundation",
+      "weight": 0.027,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "mgm",
+      "weight": 0.027,
+      "coverage": 0.25
+    }
+  ],
+  "Network Security Engineer": [
+    {
+      "keyword": "routers",
+      "weight": 0.0702,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "firewall",
+      "weight": 0.0702,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "wan",
+      "weight": 0.0526,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "network security",
+      "weight": 0.0526,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "switches",
+      "weight": 0.0526,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "lan",
+      "weight": 0.0526,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "cisco",
+      "weight": 0.0526,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "configuration",
+      "weight": 0.0702,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "device",
+      "weight": 0.0526,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "remote",
+      "weight": 0.0526,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "switch",
+      "weight": 0.0526,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "troubleshoot",
+      "weight": 0.0702,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "hardware",
+      "weight": 0.0526,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "routing",
+      "weight": 0.0351,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "f5",
+      "weight": 0.0351,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "dns",
+      "weight": 0.0351,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "fortinet",
+      "weight": 0.0351,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "hcl comnet",
+      "weight": 0.0351,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "juniper",
+      "weight": 0.0351,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "load balancer",
+      "weight": 0.0351,
+      "coverage": 0.5
+    }
+  ],
+  "Operations Manager": [
+    {
+      "keyword": "tat",
+      "weight": 0.0588,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "operations manager",
+      "weight": 0.0588,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "loss",
+      "weight": 0.0588,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "inform",
+      "weight": 0.0588,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "manner",
+      "weight": 0.0588,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "external",
+      "weight": 0.0588,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "credit",
+      "weight": 0.0588,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "transaction",
+      "weight": 0.0588,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "mis",
+      "weight": 0.0588,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "point",
+      "weight": 0.0588,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "keep",
+      "weight": 0.0588,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "receivables",
+      "weight": 0.0392,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "timely information",
+      "weight": 0.0392,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "tenure manage",
+      "weight": 0.0392,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "issuance",
+      "weight": 0.0392,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "inbound",
+      "weight": 0.0392,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "key customer",
+      "weight": 0.0392,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "develop implement",
+      "weight": 0.0392,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "emails phone",
+      "weight": 0.0392,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "service quality",
+      "weight": 0.0392,
+      "coverage": 0.667
+    }
+  ],
+  "PMO": [
+    {
+      "keyword": "delivery managers",
+      "weight": 0.05,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "actual",
+      "weight": 0.05,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "transition",
+      "weight": 0.05,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "pmo",
+      "weight": 0.05,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "audits",
+      "weight": 0.05,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "quarterly",
+      "weight": 0.05,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "escalation",
+      "weight": 0.05,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "prove",
+      "weight": 0.05,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "pattern",
+      "weight": 0.05,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "establish",
+      "weight": 0.05,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "sla",
+      "weight": 0.05,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "validate",
+      "weight": 0.05,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "billing",
+      "weight": 0.05,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "stakeholder",
+      "weight": 0.05,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "cost",
+      "weight": 0.05,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "weekly monthly",
+      "weight": 0.05,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "tracking",
+      "weight": 0.05,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "budget",
+      "weight": 0.05,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "risk",
+      "weight": 0.05,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "assist",
+      "weight": 0.05,
+      "coverage": 1.0
+    }
+  ],
+  "Python Developer": [
+    {
+      "keyword": "python developer",
+      "weight": 0.1136,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "git",
+      "weight": 0.0682,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "web crawling",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "restful api",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "rest",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "django",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "numpy",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "controller",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "languages python",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "web service",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "database mysql",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "mongodb",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "design development",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "utilize",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "select",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "html css",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "cycle",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "agile",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "unit testing",
+      "weight": 0.0455,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "version",
+      "weight": 0.0455,
+      "coverage": 0.4
+    }
+  ],
+  "SAP Developer": [
+    {
+      "keyword": "sap",
+      "weight": 0.1042,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "end user",
+      "weight": 0.0625,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "component",
+      "weight": 0.0625,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "universe",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "metadata",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "one environment",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "environment another",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "bo",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "abap",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "feature",
+      "weight": 0.0625,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "modify",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "oss",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "poc",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "table",
+      "weight": 0.0625,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "creation",
+      "weight": 0.0625,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "intelligence",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "mode",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "custom",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "enhancement",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "lifecycle",
+      "weight": 0.0417,
+      "coverage": 0.4
+    }
+  ],
+  "Sales": [
+    {
+      "keyword": "sales manager",
+      "weight": 0.1333,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "cold",
+      "weight": 0.1,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "sale",
+      "weight": 0.1,
+      "coverage": 0.75
+    },
+    {
+      "keyword": "marketing",
+      "weight": 0.0667,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "corporate",
+      "weight": 0.0667,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "bank",
+      "weight": 0.0667,
+      "coverage": 0.5
+    },
+    {
+      "keyword": "residential",
+      "weight": 0.0333,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "search job",
+      "weight": 0.0333,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "site visit",
+      "weight": 0.0333,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "vodafone",
+      "weight": 0.0333,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "loyalty",
+      "weight": 0.0333,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "housing",
+      "weight": 0.0333,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "multi task",
+      "weight": 0.0333,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "pos",
+      "weight": 0.0333,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "icici",
+      "weight": 0.0333,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "interacting",
+      "weight": 0.0333,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "generating",
+      "weight": 0.0333,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "edc",
+      "weight": 0.0333,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "even",
+      "weight": 0.0333,
+      "coverage": 0.25
+    },
+    {
+      "keyword": "demo",
+      "weight": 0.0333,
+      "coverage": 0.25
+    }
+  ],
+  "Testing": [
+    {
+      "keyword": "testing engineer",
+      "weight": 0.0833,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "engineering research",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "assembly",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "transformer",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "test",
+      "weight": 0.0833,
+      "coverage": 0.8
+    },
+    {
+      "keyword": "manual",
+      "weight": 0.0625,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "protection",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "nashik",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "power",
+      "weight": 0.0625,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "panel",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "electrical",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "state",
+      "weight": 0.0625,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "defect",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "diploma",
+      "weight": 0.0625,
+      "coverage": 0.6
+    },
+    {
+      "keyword": "electronics",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "people",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "department",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "basic",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "excel",
+      "weight": 0.0417,
+      "coverage": 0.4
+    },
+    {
+      "keyword": "within",
+      "weight": 0.0417,
+      "coverage": 0.4
+    }
+  ],
+  "Web Designing": [
+    {
+      "keyword": "designer web",
+      "weight": 0.0811,
+      "coverage": 1.0
+    },
+    {
+      "keyword": "graphic",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "incorporate",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "photoshop",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "competition",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "integrate",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "ui",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "web base",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "css3",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "bootstrap",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "website",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "jquery",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "online",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "exist",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "give",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "code",
+      "weight": 0.0541,
+      "coverage": 0.667
+    },
+    {
+      "keyword": "playing cricket",
+      "weight": 0.027,
+      "coverage": 0.333
+    },
+    {
+      "keyword": "indira",
+      "weight": 0.027,
+      "coverage": 0.333
+    },
+    {
+      "keyword": "magazine",
+      "weight": 0.027,
+      "coverage": 0.333
+    },
+    {
+      "keyword": "mock",
+      "weight": 0.027,
+      "coverage": 0.333
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "machine": "x86_64",
+  "python": "3.12.3",
+  "runs": [
+    {
+      "resumes": 50,
+      "parse_s": 0.7,
+      "total_s": 4.1,
+      "total_min": 0.07,
+      "manual_hours": 4.2,
+      "manual_days_8h": 0.5
+    },
+    {
+      "resumes": 100,
+      "parse_s": 2.1,
+      "total_s": 6.3,
+      "total_min": 0.1,
+      "manual_hours": 8.3,
+      "manual_days_8h": 1.0
+    },
+    {
+      "resumes": 500,
+      "parse_s": 11.9,
+      "total_s": 33.1,
+      "total_min": 0.55,
+      "manual_hours": 41.7,
+      "manual_days_8h": 5.2
+    }
+  ]
+}
